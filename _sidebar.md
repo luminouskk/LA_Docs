@@ -4,9 +4,9 @@
 
 * 点分析数据处理
 
-  * [软件简介](point/about.md)
-  * [使用教程](point/start.md)
-  * [常见问题](point/question.md)
+  * [软件简介](spot/about.md)
+  * [使用教程](spot/start.md)
+  * [常见问题](spot/question.md)
 
 * 面扫描数据处理
 
