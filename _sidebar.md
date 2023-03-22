@@ -1,16 +1,15 @@
-* 矿物微区分析实验室概况
+* 矿物微区分析实验室
 
-  * [文档指南](mapping/helpers.md)
-  * [了解实验室](mapping/deploy.md)
+  * [关于实验室](about.md)
 
 * 点分析数据处理
 
-  * [快速开始](point/quickstart.md)
-  * [细节文档](point/more.md)
+  * [软件简介](point/about.md)
+  * [使用教程](point/start.md)
+  * [常见问题](point/question.md)
 
 * 面扫描数据处理
 
-  * [快速开始](mapping/quickstart.md)
-  * [细节文档](mapping/more.md)
-
-* [关于站点](zh-cn/changelog.md)
+  * [软件简介](mapping/about.md)
+  * [使用教程](mapping/start.md)
+  * [常见问题](mapping/question.md)
