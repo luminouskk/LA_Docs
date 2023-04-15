@@ -1,6 +1,6 @@
 # LA-ICPMS ScanAnalysis
 
-![软件截图](/img/mapping-software.png)
+![软件截图](./img/mapping-software.png)
 
 ## 软件环境要求
 
