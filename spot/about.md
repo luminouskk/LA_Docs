@@ -1,5 +1,10 @@
 # LA-ICPMS SpotAnalysis
 
+> **LA-ICPMS点分析系统2.0**
+> 使用简介：https://note.youdao.com/s/ASHbY4Ya
+
+![软件截图](/img/spot-software.png)
+
 ## 软件环境要求
 
 ### 计算机配置

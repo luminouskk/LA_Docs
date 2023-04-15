@@ -53,4 +53,4 @@
 - 实验室负责人：汪方跃 副教授
 - 邮箱：fywang@hfut.edu.cn
 
- 实验室网上预约系统：http://geoscience.hfut.edu.cn/lab/index.php
+实验室网上预约系统：http://geoscience.hfut.edu.cn/lab/index.php
