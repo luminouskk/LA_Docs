@@ -11,9 +11,8 @@
     <!-- 设置浏览器图标 -->
     <link rel="icon" href="/static/favicon.ico" type="image/x-icon" />
     <link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon" />
-    <!-- 默认主题 -->
-    <!-- <link rel="stylesheet" href="https://lib.baomitu.com/docsify/latest/themes/vue.css"> -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <!-- 设置主题 -->
+    <link rel="stylesheet" href="https://static.lty.fun/StaticFile/packages/docsify-themeable@0.9.0/dist/css/theme-simple.css">
     
 </head>
 
@@ -36,12 +35,12 @@
             // 最大支持渲染的标题层级
             maxLevel: 5,
             // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
-            subMaxLevel: 4,
+            subMaxLevel: 2,
             // 小屏设备下合并导航栏到侧边栏
             mergeNavbar: true,
             /*搜索相关设置*/
             search: {
-                maxAge: 86400000,// 过期时间，单位毫秒，默认一天
+                maxAge: 864000,// 过期时间，单位毫秒，默认一天
                 paths: 'auto',// 注意：仅适用于 paths: 'auto' 模式
                 placeholder: '搜索',              
                 // 支持本地化
@@ -57,15 +56,13 @@
         }
     </script>
     <!-- docsify的js依赖 -->
-    <script src="https://lib.baomitu.com/docsify/latest/docsify.min.js"></script>
+    <script src="https://static.lty.fun/StaticFile/packages/docsify@4.13.0/lib/docsify.min.js"></script>
     <!-- emoji表情支持 -->
-    <script src="https://lib.baomitu.com/docsify/latest/plugins/emoji.min.js"></script>
+    <script src="https://static.lty.fun/StaticFile/packages/docsify@4.13.0/lib/plugins/emoji.min.js"></script>
     <!-- 图片放大缩小支持 -->
-    <script src="https://lib.baomitu.com/docsify/latest/plugins/zoom-image.min.js"></script>
+    <script src="https://static.lty.fun/StaticFile/packages/docsify@4.13.0/lib/plugins/zoom-image.min.js"></script>
     <!-- 搜索功能支持 -->
-    <script src="https://lib.baomitu.com/docsify/latest/plugins/search.min.js"></script>
-    <!--在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码-->
-    <script src="https://lib.baomitu.com/docsify-copy-code/latest/docsify-copy-code.min.js"></script>
+    <script src="https://static.lty.fun/StaticFile/packages/docsify@4.13.0/lib/plugins/search.min.js"></script>
 </body>
 
 </html>
