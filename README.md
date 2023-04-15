@@ -1,10 +1,10 @@
 # LA-ICPMS文档
 
+?>这是一个基于docsify的文档网站，您可以从[GitHub](https://github.com/luminouskk/LA_Docs)提交修正。
+
 ## 文档简介
 
 > **合肥工业大学资源与环境工程学院矿物微区分析实验室**
-
-- 这是一个基于docsify的文档网站，您可以从[GitHub](https://github.com/luminouskk/LA_Docs)提交编辑。
 
 ## LA-ICPMS SpotAnalysis
 
