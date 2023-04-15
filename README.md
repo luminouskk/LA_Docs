@@ -1,17 +1,17 @@
-# LA-ICP-MS相关文档
+# LA-ICPMS文档
 
-> 合肥工业大学资源与环境工程学院矿物微区分析实验室
+## 文档简介
 
-## 概述
+> **合肥工业大学资源与环境工程学院矿物微区分析实验室**
 
-这是一个基于docsify的文档网站，您可以从[GitHub]([zh-cn/deploy.md](https://github.com/luminouskk/LA_Docs))提交编辑。
+- 这是一个基于docsify的文档网站，您可以从[GitHub]([zh-cn/deploy.md](https://github.com/luminouskk/LA_Docs))提交编辑。
 
-## SpotAnalysis V2
+## LA-ICPMS SpotAnalysis
 
 - 基于MATLAB
 - 多实验室支持（中国科学院广州地球化学研究所、中南大学、广州拓岩）
 
-## LA-ICP-MS ScanAnalysis
+## LA-ICPMS ScanAnalysis
 
 - 更高的数据准确度
 - 更高的空间分辨率
