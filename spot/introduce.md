@@ -33,7 +33,8 @@
 
 ### 页面的前后流程与关系
 
-```@startuml
+```plantuml
+@startuml
 start
 :质谱仪器选择;
 :标样库;
