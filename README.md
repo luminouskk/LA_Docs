@@ -1,9 +1,5 @@
 # LA-ICPMS文档
 
-?>这是一个基于docsify的文档网站，您可以从[GitHub](https://github.com/luminouskk/LA_Docs)提交修正。
-
-## 文档简介
-
 > **合肥工业大学资源与环境工程学院矿物微区分析实验室**
 
 ## LA-ICPMS SpotAnalysis
@@ -29,3 +25,5 @@
 - 电子邮箱： fywang@hfut.edu.cn
 
 如果对我们的实验室或分析方法有兴趣，欢迎与我们联系。
+
+?>这是一个基于docsify的文档网站，您可以从[GitHub](https://github.com/luminouskk/LA_Docs)提交修正。

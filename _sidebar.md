@@ -2,13 +2,13 @@
 
   * [实验室简介](about.md)
   * [方法引用](cite.md)
+  * [实验流程](tutorial.md)
   * [注意事项](caution.md)
-  * [操作流程](tutorial.md)
 
 * 点分析数据处理
 
   * [点分析软件](spot/about.md)
-  * [功能介绍](spot/introduce.md)
+  * [功能介绍](spot/intro.md)
   * [简要教程](spot/tutorial.md)
   * [常见问题](spot/question.md)
 
