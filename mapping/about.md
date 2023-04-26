@@ -15,7 +15,7 @@
 建议使用**MATLAB Runtime 2021a**或更高版本的Runtime运行LA-ICPMS ScanAnalysis
 
 - 官方页面：[MATLAB Runtime](https://ww2.mathworks.cn/products/compiler/matlab-runtime.html)
-- 2021a版下载：[MATLAB Runtime 2021a For Windows-64bit](https://ssd.mathworks.com/supportfiles/downloads/R2021a/Release/8/deployment_files/installer/complete/win64/MATLAB_Runtime_R2021a_Update_8_win64.zip)
+- 2021a版下载：[MATLAB Runtime 2021a For Windows-64bit](https://ssd.mathworks.cn/supportfiles/downloads/R2021a/Release/8/deployment_files/installer/complete/win64/MATLAB_Runtime_R2021a_Update_8_win64.zip)
 
 ## 获取软件
 
