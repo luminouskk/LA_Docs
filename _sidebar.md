@@ -1,8 +1,7 @@
 * 矿物微区分析实验室
 
   * [实验室概况](README.md)
-  * [数据分析](software.md)
-  * [方法引用](cite.md)
+  * [方法及引用](software.md)
   * [操作流程](tutorial.md)
   * [注意事项](caution.md)
 
