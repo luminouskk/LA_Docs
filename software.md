@@ -1,12 +1,12 @@
 # 数据分析软件
 
-## LA-ICPMS SpotAnalysis
+## SpotAnalysis
 
 - 基于MATLAB
 - 适配安捷伦（Agilent）、赛默飞（Thermofisher）、耶拿（Analytik Jena）质谱仪数据格式
 - 多实验室支持性验证（中国科学院广州地球化学研究所、中南大学、广州拓岩等）
 
-## LA-ICPMS ScanAnalysis
+## ScanAnalysis
 
 - 基于MATLAB
 - 更高的数据准确度
