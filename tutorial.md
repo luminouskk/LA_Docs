@@ -16,52 +16,20 @@
 
 ### 换样
 
-关闭He 流量。取出样品凭。而刚始
-放置样品.
-2.
-近叫付开包
-拍照
-把样品靶放到激光剥蚀仓中，拧紧螺丝。激光软件中点 gas control，点
-Evacute，抽真空(约200s)。
-激光控制软件:import image 按钮，导入样品靶照片
-alignment marks 将照片与底图匹配，选择两个点，推荐选螺丝作为参考点。
-摄像头 zoom out 到0%。控制软件最下方点 out(全局观)。点 alignment marks
-点 apply 应用，然后点 ok。即完成图片矫正工作。需要验证是否矫正正确，
-不然重新矫正。重新矫正的时候，scan list 里面的 alignment marks 点需要删
-除，否则会影响后来的矫正结果
-1.
-找点(navigate 移动样品台; select 用于选择已经选择好的样品点，进行调
-整位置; spot F5，选点。推荐用 F5 快捷键)。
-像生从三四 200为57
-对选择的点进行命名。(scan list 下方 rename 进行批量命名)。单个直接在上
-mmet面改名。
-保存样品列表到文档中 chr6Gum2
-以当天日期命名，如
-July21A _wangfy(实验人名称)。
-ICPMS 部分:建立测试文件目录，在 d;datallaicpmstrace elementsl。点击
-batch，将上一次测试文伸另存为现在文件，文件命名规则月.日.组_实验人名
-suvl as中北利上亿子件 .开热号
-称，如july21A_wangfy
-11.用 flashfxp 链接 ICPMS 服务器，找到文件目录: d:datallaicpmsltrace
-elementsjuly21a wangfy，把激光上样品列表文件拷贝到该目录下。
-12.在ICPMS 电脑上，用excel 打开 July21A wangfy，提取出详细列表文件，拷
-贝到新的 excel 中。建立如下内容文件:文件名:
-luly21A list;)文件列表中
-第一行为July21A001，第二行为样品点实际名称，如 BCR-2g-1.
-6Hn
-13.列表完成后，检查 sample type (sample)，comment 和 file name 一致。点击
-valid method 观察列表是否出错。没有错误之月点击 add to sequence.就开始
-等待激光信号。
-机不
-曰特
-运行激光。点run scans。检查激光触发按钮是否打上√ (active trigger out)
-Pause 时间是否输入，默认为 20s。clear trigger out 是否打√ (需要勾上)。
-Pause 时间根据样品信号采集时间定(如样品采集时间为 90，则可以设计激
-(·立触发时间 20s(激光等待时间)+50s(激光剥蚀时间)+40s(激光等待时
-))。
-sten,运行激光。观察激光剥蚀是否正常，激光剥蚀与 ICPMS 联机是
-CPMS 上 samplelist 与激光的 sample list 是否运行一致。如果不一
-的博激光剥蚀，寻找原因。
+ - 1. 确认He流速为0，拧开样品仓，取出样品台。
+ - 2. 将样品装在合适的样品台上，拍照记录，用扫描仪进行扫描（将样品拉手一侧放置与扫描仪长边左侧对齐）。
+ - 3. 把样品靶放到激光剥蚀仓中，拧紧螺丝。激光软件中找到gas control，点Evacute，抽真空(约200s)。
+ - 4. 点击激光控制软件Import Image按钮，导入样品靶照片。使用Alignment Marks将照片与底图匹配，选择2-4个点，推荐选螺丝作为参考点。摄像头Zoom Out 到0%，控制软件最下方点Out（全局观）。点右上Alignment Marks，Apply应用，然后点 ok。即完成图片矫正工作。需要验证是否矫正正确，不然重新矫正。重新矫正的时候，Scan List里面的Alignment Mark点需要删除，否则会影响后来的矫正结果。
+ - 5. 找点(Navigate移动样品台; Select用于选择已经选择好的样品点，进行调整位置; spot F5，选点。推荐用 F5 快捷键)。
+ - 6. 对选择的点进行命名(Scan List下方Rename可以进行批量命名)。单个直接在上面改名。
+ - 7. 保存样品列表到文档中，命名格式`日期+当日组号`-`实验人`-`矿物缩写`，例如`20230601A-ZHANGSAN-GRT`。
+ - 8. ICP-MS部分：建立实验文件目录，在`D:/data/`下，微量元素`Trace elements`、面扫描`Mapping`、定年`Zircon age`文件夹。个人批处理文件夹命名与LA侧样品列表要求一致。
+ - 9. 在最近访问找到Chromium网络位置，把激光上样品列表文件拷贝到质谱仪的该目录下。
+ - 10. 在ICPMS电脑上，用Excel打开激光.lase列表文件，通过分列提取出详细列表文件，拷贝到新的List文件中。列表可从先前实验的文件夹中复制，按当日情况修改为如JAN01A_LIST的格式，内部批处理列表第一行如JAN01A001，第二行为样品点实际名称如BCR-2G-1，整理好后复制到质谱软件批处理列表。
+ - 11. 列表载入完成后，检查Sample Type是否都为Sample，comment和file name 一致。点击Valid Method观察列表是否出错。没有错误之月点击Add to Sequence，就开始等待激光信号。
+ - 12. 运行激光，点Run Scans。检查激光触发按钮是否打上√ (Active Trigger Out)，Pause时间是否输入（默认为20s），Clear Trigger Out是否打√（需要勾上）。
+ - 13. 点击Start运行激光。观察激光剥蚀是否正常，激光剥蚀与 ICPMS 联机是否正常，检查ICP-MS上Sample List与激光的Sample List是否运行一致。如果不一致立即停止激光剥蚀并查找原因。
+
 
 ### 关机
 
