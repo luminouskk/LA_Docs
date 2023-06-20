@@ -1,6 +1,10 @@
-# SpotAnalysis 功能介绍
+# SpotAnalysis 软件文档
 
-!>使用简介：https://note.youdao.com/s/ASHbY4Ya
+## 软件文档
+
+?>**SpotAnalysis `V4`**：[LA-ICPMS点分析软件SpotAnalysis使用说明书](https://note.youdao.com/ynoteshare/index.html?id=af400a22ee7f6df2979a96dd78b678f7)
+
+?>**SpotAnalysis `V2`**：[LA-ICPMS点分析系统V2.0](https://note.youdao.com/s/ASHbY4Ya)
 
 ## 软件结构
 
