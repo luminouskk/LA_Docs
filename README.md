@@ -26,7 +26,7 @@
 
 ### 激光剥蚀系统 Laser Ablation System
 
-- 型号： Analyte HE
+- 仪器型号：Analyte HE
 - 生产厂商：美国Teledyne CETAC
 - 到货日期：2015年10月
 
