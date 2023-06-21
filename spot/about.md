@@ -2,11 +2,6 @@
 
 ## 软件简介
 
- - 基于MATLAB
- - 适配安捷伦（Agilent）、赛默飞（Thermofisher）、耶拿（Analytik Jena）质谱仪数据格式
- - 多实验室支持性验证（中科院广州地化所、中南大学、广州拓岩等）
- - 支持灵活的时间截取、内外标校正功能
-
 ### SpotAnalysis V4
 
 ![SpotAnalysisV4](./img/spot-software-V4.png)
@@ -14,6 +9,11 @@
 ### SpotAnalysis V2
 
 ![SpotAnalysisV2](./img/spot-software.png)
+
+ - 基于MATLAB
+ - 适配安捷伦（Agilent）、赛默飞（Thermofisher）、耶拿（Analytik Jena）质谱仪数据格式
+ - 多实验室支持性验证（中科院广州地化所、中南大学、广州拓岩等）
+ - 支持灵活的时间截取、内外标校正功能
 
 ## 环境要求
 

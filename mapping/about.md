@@ -2,13 +2,13 @@
 
 ## 软件简介
 
+![ScanAnalysis](./img/mapping-software.png)
+
  - 基于MATLAB
  - 多实验室支持性验证（中科院广州地化所、中南大学、广州拓岩、地大武汉等）
  - 支持更高的数据准确度和更高的空间分辨率
  - 支持多外标无内标计算方案
  - 支持灵活的成图、自定义计算、数据提取功能
-
-![ScanAnalysis](./img/mapping-software.png)
 
 ## 环境要求
 
