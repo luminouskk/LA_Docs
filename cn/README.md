@@ -56,5 +56,3 @@
 > - 短期稳定性：10min (RSD): < 2%
 > - 长期稳定性：2 hr(RSD): < 3%
 > - 质谱校正稳定性：< 0.025 amu/8hr
-
-?>这是一个基于docsify的文档网站，您可以从[GitHub](https://github.com/luminouskk/LA_Docs)提交修正。

@@ -30,4 +30,4 @@
 !>实验结束后，请从实验室相关人员处获取`ScanAnalysis.exe`，也可直接联系葛璨或汪方跃老师获取
 
  - 软件下载：暂不提供
- - 标样库下载：[面扫描国际标样](https://doc.icee.ac.cn/mapping/srm/%E9%9D%A2%E6%89%AB%E6%8F%8F%E5%9B%BD%E9%99%85%E6%A0%87%E6%A0%B7_%E5%B8%A6NODA.csv)
+ - 标样库下载：[面扫描国际标样](https://doc.icee.ac.cn/cn/mapping/srm/%E9%9D%A2%E6%89%AB%E6%8F%8F%E5%9B%BD%E9%99%85%E6%A0%87%E6%A0%B7_%E5%B8%A6NODA.csv)
