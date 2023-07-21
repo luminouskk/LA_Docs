@@ -35,4 +35,4 @@
 !>实验结束后，请从实验室相关人员处获取`SpotAnalysis.exe`，也可直接联系葛璨或汪方跃老师获取
 
  - 软件下载：暂不提供
- - 标样库：[点分析国际标样](https://doc.icee.ac.cn/cn/spot/srm/%E7%82%B9%E5%88%86%E6%9E%90%E5%9B%BD%E9%99%85%E6%A0%87%E6%A0%B720220719.xlsx)
+ - 标样库：[点分析国际标样](https://doc.icee.ac.cn/spot/srm/%E7%82%B9%E5%88%86%E6%9E%90%E5%9B%BD%E9%99%85%E6%A0%87%E6%A0%B720220719.xlsx)
